@@ -1,0 +1,365 @@
+[
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "748-22",
+        "subject": "IT\/Mutaxassislik tanlov fani (Sun'iy intellek asoslari)",
+        "attendance": {
+            "Keldi": "20",
+            "Kelmadi": "0",
+            "Jami": "20"
+        }
+    },
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "719-22",
+        "subject": "Sun\u2019iy intellekt asoslari",
+        "attendance": {
+            "Keldi": "11",
+            "Kelmadi": "0",
+            "Jami": "11"
+        }
+    },
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "789-22",
+        "subject": "IT\/Mutaxassislik tanlov fani (Sun'iy intellek asoslari)",
+        "attendance": {
+            "Keldi": "2",
+            "Kelmadi": "0",
+            "Jami": "2"
+        }
+    },
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "739-22",
+        "subject": "Sun\u2019iy intellekt asoslari",
+        "attendance": {
+            "Keldi": "9",
+            "Kelmadi": "0",
+            "Jami": "9"
+        }
+    },
+    {
+        "id": 8,
+        "xona": "207",
+        "group_name": "580-23",
+        "subject": "Mexatron modullarning va robotlarning yuritmalari",
+        "attendance": {
+            "Keldi": "11",
+            "Kelmadi": "2",
+            "Jami": "13"
+        }
+    },
+    {
+        "id": 9,
+        "xona": "208",
+        "group_name": "612-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "22",
+            "Kelmadi": "1",
+            "Jami": "23"
+        }
+    },
+    {
+        "id": 9,
+        "xona": "208",
+        "group_name": "611-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "19",
+            "Kelmadi": "6",
+            "Jami": "25"
+        }
+    },
+    {
+        "id": 9,
+        "xona": "208",
+        "group_name": "610-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "21",
+            "Kelmadi": "1",
+            "Jami": "22"
+        }
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "M37-23",
+        "subject": "Sun\u2019iy intellekt va neyron tarmoqlari",
+        "attendance": {
+            "Keldi": "1",
+            "Kelmadi": "0",
+            "Jami": "1"
+        }
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "M17-23",
+        "subject": "Sun\u2019iy intellekt va neyron tarmoqlari",
+        "attendance": {
+            "Keldi": "1",
+            "Kelmadi": "0",
+            "Jami": "1"
+        }
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "M47-23",
+        "subject": "Sun\u2019iy intellekt va neyron tarmoqlari",
+        "attendance": {
+            "Keldi": "2",
+            "Kelmadi": "0",
+            "Jami": "2"
+        }
+    },
+    {
+        "id": 17,
+        "xona": "228",
+        "group_name": "681-23",
+        "subject": "Elektronika va sxemalar",
+        "attendance": {
+            "Keldi": "23",
+            "Kelmadi": "0",
+            "Jami": "23"
+        }
+    },
+    {
+        "id": 17,
+        "xona": "228",
+        "group_name": "680-23",
+        "subject": "Elektronika va sxemalar",
+        "attendance": {
+            "Keldi": "25",
+            "Kelmadi": "0",
+            "Jami": "25"
+        }
+    },
+    {
+        "id": 18,
+        "xona": "229",
+        "group_name": "510-23",
+        "subject": "Sun\u2019iy intellekt asoslari",
+        "attendance": {
+            "Keldi": "13",
+            "Kelmadi": "5",
+            "Jami": "18"
+        }
+    },
+    {
+        "id": 29,
+        "xona": "316",
+        "group_name": "687-23",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "15",
+            "Kelmadi": "1",
+            "Jami": "16"
+        }
+    },
+    {
+        "id": 29,
+        "xona": "316",
+        "group_name": "617-23",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "19",
+            "Kelmadi": "0",
+            "Jami": "19"
+        }
+    },
+    {
+        "id": 29,
+        "xona": "316",
+        "group_name": "517-23",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "11",
+            "Kelmadi": "1",
+            "Jami": "12"
+        }
+    },
+    {
+        "id": 31,
+        "xona": "323",
+        "group_name": "613-23",
+        "subject": "Kiberxavfsizlik asoslari",
+        "attendance": {
+            "Keldi": "13",
+            "Kelmadi": "9",
+            "Jami": "22"
+        }
+    },
+    {
+        "id": 40,
+        "xona": "111 A",
+        "group_name": "752-22",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "15",
+            "Kelmadi": "4",
+            "Jami": "19"
+        }
+    },
+    {
+        "id": 40,
+        "xona": "111 A",
+        "group_name": "750-22",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "17",
+            "Kelmadi": "4",
+            "Jami": "21"
+        }
+    },
+    {
+        "id": 40,
+        "xona": "111 A",
+        "group_name": "751-22",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "21",
+            "Kelmadi": "0",
+            "Jami": "21"
+        }
+    },
+    {
+        "id": 42,
+        "xona": "117 A",
+        "group_name": "781-22",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "12",
+            "Kelmadi": "14",
+            "Jami": "26"
+        }
+    },
+    {
+        "id": 44,
+        "xona": "204 A",
+        "group_name": "739-23",
+        "subject": "Xorijiy til",
+        "attendance": {
+            "Keldi": "3",
+            "Kelmadi": "0",
+            "Jami": "3"
+        }
+    },
+    {
+        "id": 52,
+        "xona": "102 B",
+        "group_name": "718-22",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "2",
+            "Kelmadi": "0",
+            "Jami": "2"
+        }
+    },
+    {
+        "id": 53,
+        "xona": "202 B",
+        "group_name": "719-23",
+        "subject": "Xisob (Calculus)",
+        "attendance": {
+            "Keldi": "3",
+            "Kelmadi": "10",
+            "Jami": "13"
+        }
+    },
+    {
+        "id": 54,
+        "xona": "203 B",
+        "group_name": "716-22",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "20",
+            "Kelmadi": "6",
+            "Jami": "26"
+        }
+    },
+    {
+        "id": 55,
+        "xona": "205 B",
+        "group_name": "712-22",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "16",
+            "Kelmadi": "10",
+            "Jami": "26"
+        }
+    },
+    {
+        "id": 55,
+        "xona": "205 B",
+        "group_name": "710-22",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "21",
+            "Kelmadi": "0",
+            "Jami": "21"
+        }
+    },
+    {
+        "id": 55,
+        "xona": "205 B",
+        "group_name": "711-22",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "17",
+            "Kelmadi": "4",
+            "Jami": "21"
+        }
+    },
+    {
+        "id": 59,
+        "xona": "Korea markazi 1-xona",
+        "group_name": "614-23",
+        "subject": "Ma'lumotlar tuzilmasi va algoritmlar",
+        "attendance": {
+            "Keldi": "20",
+            "Kelmadi": "3",
+            "Jami": "23"
+        }
+    },
+    {
+        "id": 69,
+        "xona": "203 A (Magistr)",
+        "group_name": "M40-23",
+        "subject": "Biznesning uzluksizligi va avariyaviy tiklash",
+        "attendance": {
+            "Keldi": "3",
+            "Kelmadi": "0",
+            "Jami": "3"
+        }
+    },
+    {
+        "id": 75,
+        "xona": "212ATKAF",
+        "group_name": "M20-24",
+        "subject": "Kompyuter tarmoqlarini ma'muriy boshqarish",
+        "attendance": {
+            "Keldi": "3",
+            "Kelmadi": "0",
+            "Jami": "3"
+        }
+    },
+    {
+        "id": 76,
+        "xona": "XT-1",
+        "group_name": "M80-24",
+        "subject": "Mutaxasislikka kirish",
+        "attendance": {
+            "Keldi": "1",
+            "Kelmadi": "0",
+            "Jami": "1"
+        }
+    }
+]
