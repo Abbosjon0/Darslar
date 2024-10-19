@@ -4,7 +4,7 @@ teacher=pd.DataFrame({
     'Familya': ['Xalilov','Toxirova'],
     'Fan': ['Suniy Intilek','Suniy Intilek'],
     'Telefon raqami': ['+998991234567','+998991234567']
-    
+    'Ish joyi': ['TATU FF','TATU FF']
 })
 print(teacher)
 teacher.to_excel('teacher.xlsx',index=False,sheet_name='Sheet1')
