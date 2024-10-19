@@ -3,7 +3,7 @@ teacher=pd.DataFrame({
     'Ism':['Durbek','Sarvinoz'],
     'Familya': ['Xalilov','Toxirova'],
     'Fan': ['Suniy Intilek','Suniy Intilek'],
-    'Telefon raqami': ['+998991234567','+998991234567']
+    'Telefon raqami': ['+998991234567','+998991234567'],
     'Ish joyi': ['TATU FF','TATU FF']
 })
 print(teacher)
